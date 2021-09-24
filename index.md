@@ -7,7 +7,7 @@ My first line of code was:
 System.out.print("Hello World");
 ```
 Today, I learned how to use [GitHub](https://github.com/)
-[Go to the title here]
+[Go to the title here](https://github.com/THEODOREALOUCSD/GitHub-Pages-Lab1/blob/VSCodeBranch/index.md#my-name-is-theodore-alo)
 [ReadMe file is here](README.md)
 ![This is an image](https://th.bing.com/th/id/OIP.s_y0WF4OVKNpLln1IVtRXgHaEK?pid=ImgDet&rs=1)
 
